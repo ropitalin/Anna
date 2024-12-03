@@ -1,0 +1,14 @@
+/* Code By Webdevtrick ( https://webdevtrick.com ) */
+body {
+    background: #212121;
+    }
+    .clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ff4747;
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 7px;
+    }
